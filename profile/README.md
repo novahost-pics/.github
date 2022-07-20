@@ -16,5 +16,5 @@
 
 - 🙈 Just an image uploader like any other xD
 
-
+- ✉️ Join our [Discord](https://discord.gg/uY2nYC6dkf) for Invite codes
 
