@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://media.discordapp.net/attachments/998965544432717966/1060877745036468374/Picsart_23-01-04_17-05-21-651.png" alt="cover" />
+<img width="100%" height = "250px" src="https://media.discordapp.net/attachments/1064788520880840746/1089701611028361217/Media_230326_232204.gif" alt="cover" />
 </div>
 <h1> Hey there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
@@ -15,5 +15,5 @@
 
 - 🙈 Just an image uploader like any other xD
 
-- ✉️ Join our [Discord](https://discord.gg/uY2nYC6dkf) for Invite codes
+- ✉️ Join our [Discord](https://discord.gg/upload) for Invite codes
 
