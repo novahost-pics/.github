@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://media.discordapp.net/attachments/1064788520880840746/1089701611028361217/Media_230326_232204.gif" alt="cover" />
+<img width="100%" height = "250px" src="https://cdn.discordapp.com/attachments/1029837794098561037/1095614973075537970/YouCut_20230411_154058066.mp4" alt="cover" />
 </div>
 <h1> Hey there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
